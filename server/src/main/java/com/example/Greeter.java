@@ -1,3 +1,6 @@
+/**
+ * Info about this package doing something for package-info.java file.
+ */
 package com.example;
 
 /**
@@ -11,7 +14,6 @@ public class Greeter {
   public Greeter() {
 
   }
-  
   /**
    * @param someone the name of a person
    * @return greeting string
